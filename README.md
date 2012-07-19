@@ -1,5 +1,9 @@
 #Hey Github
 
-welcome home, by vampires, you can not enter my house.
+Welcome home, but **vampires**, you can NOT enter my house.
 
-or just try `cd -` XD
+Just Try `cd -` 
+
+=v=
+
+XD
